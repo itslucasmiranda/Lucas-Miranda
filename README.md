@@ -2,7 +2,7 @@
 
 ---
 
-💻 Tenho interesse nas áreas de Desenvolvimento Back-End e CyberSegurança<br>
+💻 Tenho interesse nas áreas de Desenvolvimento Back-End e CyberSegurança.<br>
 🎓 Cursando Engenharia de Software na UNESA.<br>
 🦾 Estou aprendendo Java, Python, C#, C++, PHP e Go. Além de Bash Scripting e Penetration Testing.<br>
 
