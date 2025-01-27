@@ -8,6 +8,11 @@ Scripting e Penetretaion Testing.
 [![Estatísticas do Github:](https://github-readme-stats.vercel.app/api?username=itslucasmiranda&show_icons=true&theme=radical)
 ![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=itslucasmiranda&layout=compact&theme=radical)
 
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=itslucasmiranda&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslucasmiranda&layout=compact&theme=radical" />
+</div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
