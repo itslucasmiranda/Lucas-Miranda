@@ -16,9 +16,7 @@
       overflow: hidden;
       white-space: nowrap;
       animation: typing 4s steps(30) 1s forwards, blink 0.75s step-end infinite;
-    }
-
-    / Efeito de digitação /
+    } 
     @keyframes typing {
       from {
         width: 0;
@@ -27,8 +25,7 @@
         width: 100%;
       }
     }
-
-    / Efeito do cursor piscando */
+     Efeito do cursor piscando 
     @keyframes blink {
       50% {
         border-color: transparent;
