@@ -1,4 +1,45 @@
-# Olá! Eu sou o Lucas Miranda!
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Efeito de Digitação</title>
+  <style>
+    /* Definir a cor lilás /
+    .typing {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 30px;
+      color: #9b59b6; / lilás /
+      border-right: 3px solid #9b59b6;
+      display: inline-block;
+      width: 0;
+      overflow: hidden;
+      white-space: nowrap;
+      animation: typing 4s steps(30) 1s forwards, blink 0.75s step-end infinite;
+    }
+
+    / Efeito de digitação /
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+
+    / Efeito do cursor piscando */
+    @keyframes blink {
+      50% {
+        border-color: transparent;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="typing">Olá, Eu sou Lucas Miranda!</div>
+</body>
+</html>
 
 -💻 Tenho interresse nas áreas de Desenvolvimento Back-End e CyberSegurança.<br>
 -🎓 Cursando Engenharia de Software na UNESA.<br>
