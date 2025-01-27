@@ -4,6 +4,8 @@
 🎓 Cursando Engenharia de Software na UNESA.<br>
 🦾 Estou aprendendo Java, Python, C#, C++, PHP e Go. Além de Bash Scripting e Penetration Testing.<br>
 
+---
+
 <div align="center">
   <a href="https://github.com/itslucasmiranda">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=itslucasmiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
