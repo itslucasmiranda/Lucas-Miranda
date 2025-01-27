@@ -26,7 +26,6 @@
 </div>
 
 <div align="center">
-  !snake gif
-
+ 
 </div>
 
