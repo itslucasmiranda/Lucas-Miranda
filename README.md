@@ -14,18 +14,21 @@ Scripting e Penetretaion Testing.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Penetration-Testing-009688?style=for-the-badge&logo=penetrationtesting&logoColor=white" />
 </div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Malware-Analysis-1E88E5?style=for-the-badge&logo=malware&logoColor=white" />
   <img src="https://img.shields.io/badge/OSINT-00796B?style=for-the-badge&logo=osint&logoColor=white" />
   <img src="https://img.shields.io/badge/Bug-Hunter-F44336?style=for-the-badge&logo=bug&logoColor=white" />
   <img src="https://img.shields.io/badge/Red-Teamer-FF9800?style=for-the-badge&logo=redteam&logoColor=white" />
 </div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/Network-Monitoring-9C27B0?style=for-the-badge&logo=networkmonitoring&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse-Engineering-3F51B5?style=for-the-badge&logo=reverseengineering&logoColor=white" />
