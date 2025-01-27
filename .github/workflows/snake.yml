@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      # Verifica o repositório.
+
 - uses: actions/checkout@v2
 
       # Repositorio que será utilizado para gerar os arquivos.
