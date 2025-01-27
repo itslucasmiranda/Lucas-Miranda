@@ -1,4 +1,4 @@
-# Hello! Eu sou o Lucas Miranda!
+# Olá! Eu sou o Lucas Miranda!
 
 -💻 Tenho interresse nas áreas de Desenvolvimento Back-End e CyberSegurança
 -🎓 Cursando Engenharoa de Software na UNESA.
