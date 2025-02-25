@@ -4,7 +4,7 @@
 
 💻 Tenho interesse nas áreas de Desenvolvimento Back-End e CyberSegurança.<br>
 🎓 Cursando Engenharia de Software na UNESA.<br>
-🦾 Estou aprendendo Java, Python, C#, C++, PHP e Go. Além de Bash Scripting e Penetration Testing.<br>
+🦾 Atualmente atuo como Dev Bakcend em GO na PlanBTech, estudo Java e Segurança Ofensiva com fooco em Red Team.<br>
 
 ---
 
